@@ -124,3 +124,6 @@ If you find this repository helpful, please consider citing it in your research:
 }
 ```
 
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
